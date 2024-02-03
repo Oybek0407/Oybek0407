@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Computer vision, NPL**
+- 👯 I am currently searching for a job in the field of **artificial intelligence**.
 
 - 💬 Ask me about **Computer vision, NPL**
 
