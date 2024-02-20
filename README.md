@@ -10,10 +10,10 @@
 - 👯 I am currently searching for a job in the field of **artificial intelligence**.
 
 - 💬 Ask me about **Computer vision, NPL**
-
-- 📫 How to reach me **oybek07valiyev@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me -->> oybek07valiyev@gmail.com
+
+
 <p align="left">
 </p>
 
