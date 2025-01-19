@@ -9,7 +9,7 @@
 
 - 👯 I am actively exploring career opportunities in the field of  **artificial intelligence**.
 
-- 💬 Ask me about **Computer Vision, Generative AI, Large Language Models (LLMs), and Vision Transformers (ViTs).**
+- 💬 Ask me about **Computer Vision, Generative AI, Large Language Models (LLMs), and Vision Transformers (ViTs), GAN.**
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me -->> oybek07valiyev@gmail.com
 
