@@ -5,7 +5,7 @@
 
 - 🔭  I’m interested in computer vision and natural language processing tasks. 
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱I am master’s student at Kumoh National Institute of Technology 
 
 - 👯 I am actively exploring career opportunities in the field of  **artificial intelligence**.
 
