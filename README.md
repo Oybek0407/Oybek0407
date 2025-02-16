@@ -3,11 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oybek0407&label=Profile%20views&color=0e75b6&style=flat" alt="oybek0407" /> </p>
 
-- 🔭  I’m interested in computer vision and natural language processing tasks. 
-
-- 🌱I am master’s student at Kumoh National Institute of Technology 
-
-- 👯 I am actively exploring career opportunities in the field of  **artificial intelligence**.
+🔭 I’m interested in computer vision and natural language processing tasks.
+🌱 I am a Master’s student at Kumoh National Institute of Technology.
 
 - 💬 Ask me about **Computer Vision, Generative AI, Large Language Models (LLMs), and Vision Transformers (ViTs), GAN.**
 <h3 align="left">Connect with me:</h3>
